@@ -1,1 +1,0 @@
-dummy file2.txt — будет удалён цепочкой Jenkins
